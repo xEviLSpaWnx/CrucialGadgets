@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "crucialgadgets:items/emerald_sword"
+  }
+}
