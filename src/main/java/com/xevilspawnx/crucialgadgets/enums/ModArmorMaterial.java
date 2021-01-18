@@ -13,8 +13,6 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import java.util.function.Supplier;
 
 public enum ModArmorMaterial implements IArmorMaterial {
-
-    // CHECK DURABILITY OF ARMOR AND WEAPONS AND MAKE SURE LINE UP WITH DIAMOND BETTER THAN DIAMOND BUT LESS DURABILTY
     EMERALD(CrucialGadgets.MOD_ID + ":emerald", 25, new int[] {3, 6, 8, 3}, 18, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 10.0f,
             () -> { return Ingredient.fromItems(Items.EMERALD.getItem());
     }, 0);

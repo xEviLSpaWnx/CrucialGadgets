@@ -1,5 +1,6 @@
 package com.xevilspawnx.crucialgadgets;
 
+import com.xevilspawnx.crucialgadgets.init.ModBlocks;
 import com.xevilspawnx.crucialgadgets.init.ModItems;
 import javafx.event.Event;
 import net.minecraft.item.ItemGroup;
@@ -25,6 +26,7 @@ public class CrucialGadgets {
 
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModItems.ITEMS.register(modEventBus);
+        ModBlocks.BLOCKS.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
     }
