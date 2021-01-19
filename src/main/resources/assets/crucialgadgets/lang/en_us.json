@@ -10,5 +10,16 @@
   "item.crucialgadgets.emerald_helmet": "Emerald Helmet",
   "item.crucialgadgets.emerald_chestplate": "Emerald Chestplate",
   "item.crucialgadgets.emerald_leggings": "Emerald Leggings",
-  "item.crucialgadgets.emerald_boots": "Emerald Boots"
+  "item.crucialgadgets.emerald_boots": "Emerald Boots",
+
+  "item.crucialgadgets.portable_crafting_table": "Portable Crafting Table",
+  "item.crucialgadgets.sleeping_bag": "Sleeping Bag",
+  "item.crucialgadgets.hometeleporter": "Teleport Home",
+  "item.crucialgadgets.trolleydolly": "Trolley Dolly",
+  "item.crucialgadgets.bridgebuilder": "Bridge Builder",
+  "item.crucialgadgets.wings": "Wings",
+  "item.crucialgadgets.backpack": "Backpack",
+
+  "block.crucialgadgets.advanced_crafting_table": "Advanced Crafting Table",
+  "block.crucialgadgets.gravestone": "Gravestone"
 }
